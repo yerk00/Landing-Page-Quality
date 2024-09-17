@@ -1,0 +1,101 @@
+{
+  "Header": {
+    "title": "QualitySoft",
+    "paragraph": "Soluciones innovadoras y personalizadas en desarrollo de software. Impulsa la eficiencia y el crecimiento de tu negocio con nuestras soluciones tecnológicas a medida"
+  },
+  "About": {
+    "paragraph": "La empresa QualitySoft fue fundada en el año 2024 con el propósito de ofrecer soluciones innovadoras y personalizadas en desarrollo de software. Su enfoque está en el desarrollo de aplicaciones web, aplicaciones móviles, sistemas empresariales, software a medida tecnológica. A lo largo del tiempo, la empresa ha ampliado su gama de servicios y ha adoptado nuevas tecnologías y metodologías para mantenerse competitiva en un mercado en constante cambio es por eso que en esta ocasión busca desarrollar su nuevo proyecto “Manos a la Obra: Plataforma de Servicios Inmediatos”.",
+    "Why": [
+      "Brindar soluciones de software de alta calidad que impulsen la eficiencia y el crecimiento de los negocios, mediante la innovación y el compromiso con la satisfacción del cliente"
+    ],
+    "Why2": [
+      "Ser una empresa líder en desarrollo de software, reconocida por su capacidad para entregar soluciones tecnológicas innovadoras y efectivas que superen las expectativas del cliente."
+    ]
+  },
+  "Projects": [
+    {
+      "title": "Health for your Respirioty System",
+      "largeImage": "img/medee.jpg",
+      "smallImage": "img/medee.jpg"
+    },
+    {
+      "title": "Gestion de documentos de unidades UPCH y COFADENA",
+      "largeImage": "img/cofas.png",
+      "smallImage": "img/cofas.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/pets.jpg",
+      "smallImage": "img/pets.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "img": "img/trabajos.jpg",
+      "name": "TRABAJOS",
+      "text": "En QualitySoft, desarrollamos plataformas web especializadas para conectar a empleadores y buscadores de empleo. Creamos soluciones innovadoras que permiten a las personas encontrar oportunidades laborales."
+    },
+    {
+      "img": "img/medicina.jpg",
+      "name": "MEDICINA",
+      "text": "QualitySoft se especializa en crear software médico que mejora la eficiencia y precisión en el cuidado de la salud. Desarrollamos aplicaciones para la gestión de historiales clínicos, programación de citas, y sistemas de telemedicina"
+    },
+    {
+      "img": "img/aplicaciones-web.jpg",
+      "name": "APLICACIONES WEB",
+      "text": "En el ámbito del desarrollo de aplicaciones web, QualitySoft ofrece soluciones a medida que se adaptan a las necesidades específicas de cada cliente. Desde sistemas de gestión empresarial hasta plataformas de comercio electrónico."
+    }
+  ],
+  "Tecno": [
+    {
+      "img": "img/js.png"
+
+    },
+    {
+      "img": "img/python.png"
+    },
+    {
+      "img": "img/angular.png"
+    },
+    {
+      "img": "img/mysql.png"
+    },
+    {
+      "img": "img/post.png"
+    },
+    {
+      "img": "img/word.png"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/ing.png",
+      "name": "Yerko Ibañez",
+      "job": "Director"
+    },
+    {
+      "img": "img/ing.png",
+      "name": "Jheison Quispe",
+      "job": "Designer"
+    },
+    {
+      "img": "img/ing.png",
+      "name": "Paola Carlo",
+      "job": "Designer"
+    },
+    {
+      "img": "img/ing.png",
+      "name": "Bryan Gutierrez",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "La Paz-Bolivia Calacoto-c/12 ",
+    "phone": "75815737",
+    "email": "QualitySoft@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+ 
+}
